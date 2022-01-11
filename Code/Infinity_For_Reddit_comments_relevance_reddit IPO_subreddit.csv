@@ -1,0 +1,50 @@
+,comment_id,comment_parent_id,comment_body,comment_link_id,comment_score,comment_subreddit
+0,hp5dz3t,t3_rjqmdx,Wait. I'm not well informed about this. What does going public means? :(,t3_rjqmdx,7,Infinity_For_Reddit
+1,hp658zr,t3_rjqmdx,"Not yet. But eventually? Their api will probably change, maybe to a paid model.
+
+They're trying to introduce proprietary features like chat and rpan that don't get loaded into the API, and that just makes the unofficial apps better, and the main site worse.",t3_rjqmdx,5,Infinity_For_Reddit
+2,hp5xwe8,t3_rjqmdx,"I'm hoping they fully open up the platform, including chat.",t3_rjqmdx,3,Infinity_For_Reddit
+3,hpovbev,t3_rjqmdx,Well I think they will continue support 3rd-party apps. But who knows.,t3_rjqmdx,1,Infinity_For_Reddit
+4,hp5el4q,t1_hp5dz3t,https://www.investopedia.com/terms/i/ipo.asp,t3_rjqmdx,5,Infinity_For_Reddit
+5,hpa79ag,t1_hp658zr,I agree. I think it's going to be freemium.,t3_rjqmdx,2,Infinity_For_Reddit
+6,hph7zfv,t1_hp658zr,"*They're trying to introduce proprietary features?*
+
+They already have. Rpan, chat/dms, polls, reddit recap, etc are already inaccessible unless you're in the official app or on new reddit. 
+
+An IPO will only cause more features to be dropped. My pessimistic guess though is reddit will shut down the public API and old reddit to force users onto their official app /new reddit if they do go public. Insane backlash on all platforms won't persuade the money from investors.",t3_rjqmdx,1,Infinity_For_Reddit
+7,hp65d4s,t1_hp5xwe8,"They won't. Chat is a third party service they *pay for*. Every reddit chat message you send, reddit pays some shitty company that can't write software to save its life. They won't pay to extend that service via API, the whole point is that they're pressuring you to use the official app.",t3_rjqmdx,5,Infinity_For_Reddit
+8,hp5o1g1,t1_hp5el4q,Wow thanks. Much appreciated,t3_rjqmdx,3,Infinity_For_Reddit
+9,hpn5x9r,t1_hph7zfv,"When I say they're trying to, I mean, their plan for making the official site and official app better than the API-enabled services is to keep introducing these proprietary features until Reddit Sync looks bad. That's their strategy, and it's backfiring because their prorpietary features suck ass.",t3_rjqmdx,1,Infinity_For_Reddit
+10,hpcp9ev,t1_hp65d4s,"Honestly nowadays reddit is just ruining itself. They're trying to be *hip and cool* a little too hard in my opinion. No, we didn't need the avatars, we didn't need the NFT avatars. No, we didn't need the ""decentralized"" blockchain bullshit. They're also, just like you said, adding new features only available in their shitty official app. I think RPAN was the last good thing they ever made (excluding awards (dude nobody cares about that sticker that cost you 5 bucks and gave some person 20 MeaninglessInternetPoints(tm)) and removing Aaron from the founders page), as RPAN at least had some original ""charm"" to it, this feeling of jank and it running on an old laptop held together with duct tape somewhere. Until they remade their design, that is.
+
+Corporations being corporations, I guess.",t3_rjqmdx,1,Infinity_For_Reddit
+11,hpd3s5o,t1_hpcp9ev,"Wait, they removed Aaron Swartz from the founders page?
+
+WAIT. YOU THINK RPAN WAS GOOD?",t3_rjqmdx,1,Infinity_For_Reddit
+12,hpenpry,t1_hpd3s5o,"Yeah, they totally did. Go [here](https://www.redditinc.com/), scroll down to the ""Reddit Founders"" heading. Aaron nowhere to be seen.
+
+RPAN was sorta good. Not much going on there tho.",t3_rjqmdx,1,Infinity_For_Reddit
+13,hpf1lu7,t1_hpenpry,"I am mostly offended at the way they pushed RPAN.
+
+It's a totally separate product from reddit. If they had made a new website, linked it to your reddit account, shared it in /r/announcements, and advertised the hell out of it, I might have been intrigued.
+
+But instead, they shoehorned it into reddit. There's a button up near the top of your reddit UI that pulls up a product that *just doesn't work like reddit*. It was shoehorned into everybody's feed, and it looked like a post or an ad, but it wasn't, and you couldn't vote on it, and you couldn't unsubscribe from it, it was just there. And they released it without an announcement explaining wtf it was. IDK what it is, at this point, all I know that it's not actually part of reddit, it's just stuffed in.",t3_rjqmdx,1,Infinity_For_Reddit
+14,hpfncej,t1_hpf1lu7,"To be fair I have to agree, they did push it too hard. By the way, neither the button or the posts show up in the old UI.",t3_rjqmdx,1,Infinity_For_Reddit
+15,hpfs0i3,t1_hpfncej,"I saw the posts for a while in the old UI. But it's kind of ridiculous that Reddit, by excluding bad features from the old UI / API, is actively selling me on them, and pushing me away from the new UI / official app. (I wasn't really considering the official app at any point).
+
+Oh! The new notification shade is slow as hell and super buggy. Yet another reason.",t3_rjqmdx,2,Infinity_For_Reddit
+16,hpp7lga,t3_rmw2a3,The biggest problem with these platforms is adoption.  It's not much fun if you try communicating in a ghost town.,t3_rmw2a3,17,Infinity_For_Reddit
+17,hpom8x1,t3_rmw2a3,"in what sense ""getting public""",t3_rmw2a3,6,Infinity_For_Reddit
+18,hpq7gmx,t3_rmw2a3,Reddit is that large because of it's large userbase and content. The other platforms don't have that,t3_rmw2a3,3,Infinity_For_Reddit
+19,hpsti7t,t3_rmw2a3,"I'm all for decentralisation, but your graphic gives no reason why reddit going public is a bad. Everything they will be able to do in terms of censorship etc post IPO, they have been to do pre-IPO, and in fact, they have done. So those alternatives aren't alternatives because Reddit is going public, they're just reason to not use Reddit anyway. So the way your graphic is phrased is irrelevant.",t3_rmw2a3,3,Infinity_For_Reddit
+20,hq1k4p7,t3_rmw2a3,"lemmy's creator kinda [sucks](https://raddle.me/f/lobby/96713/heads-up-the-tankie-behind-lemmy-ml-got-banned-from-r), but I know not everyone gives a shit about politics. otherwise I don't really see what fundamental advantages a federated platform could really give that a purely instance-based platform (such as [postmill](https://postmill.xyz/)) couldn't, besides some specific features
+
+but either way, Reddit going public is definitely going to stifle the site, especially for any subs that go against stockholder and advertiser values",t3_rmw2a3,2,Infinity_For_Reddit
+21,hposxzf,t3_rmw2a3,i feel like diaspora should be on the list,t3_rmw2a3,1,Infinity_For_Reddit
+22,hpp9duc,t1_hpp7lga,"Maybe Lemmy, but Mastodon is actually quite popular",t3_rmw2a3,7,Infinity_For_Reddit
+23,hpopk6m,t1_hpom8x1,Ipo,t3_rmw2a3,9,Infinity_For_Reddit
+24,hpppoci,t1_hpom8x1,"honestly I don't understand it very well either, but I thik this may be useful: https://www.reddit.com/r/Infinity_For_Reddit/comments/rjqmdx/reddit_ipo/",t3_rmw2a3,2,Infinity_For_Reddit
+25,hqpvem8,t1_hq1k4p7,"Didnt know that about the author. Brutal. Ive heard that lemmy is quite popular with the far right userbase, how much truth is behind that?",t3_rmw2a3,1,Infinity_For_Reddit
+26,hqpxe49,t1_hqpvem8,"can't say anything about the veracity of how popular lemmy is with the far-right, but I wouldn't doubt that some portion has made a space or two for themselves there.
+
+in terms of social media popular with the far-right, I feel like telegram, gab, bitchute, and the like are more popular. especially since telegram doesn't have the same reputation that gab and bitchute have",t3_rmw2a3,1,Infinity_For_Reddit
